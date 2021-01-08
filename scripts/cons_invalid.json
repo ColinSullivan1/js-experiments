@@ -1,0 +1,9 @@
+{
+  "durable_name": "cons1",
+  "deliver_subject": "bar",
+  "deliver_policy": "new",
+  "ack_policy": "all",
+  "max_deliver": -1,
+  "replay_policy": "instant",
+  "max_ack_pending": 1024
+}
