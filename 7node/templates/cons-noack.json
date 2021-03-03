@@ -1,0 +1,8 @@
+{
+  "deliver_subject": "bar",
+  "deliver_policy": "new",
+  "ack_policy": "none",
+  "max_deliver": 1024,
+  "replay_policy": "instant",
+  "max_ack_pending": 1024
+}
