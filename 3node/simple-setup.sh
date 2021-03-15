@@ -1,5 +1,5 @@
 #!/bin/sh
 
-natscli stream create --config=stream1.json 
-natscli consumer create --config=cons1.json stream1 
+nats stream create --config=stream1.json 
+nats consumer create --config=cons1.json stream1 
 

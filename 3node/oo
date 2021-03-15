@@ -1,0 +1,25 @@
+Stream strm97 was created
+
+Information for Stream strm97 created 2021-03-08T13:17:43-07:00
+
+Configuration:
+
+             Subjects: foo97
+     Acknowledgements: true
+            Retention: File - Limits
+             Replicas: 2
+       Discard Policy: Old
+     Duplicate Window: 2m0s
+     Maximum Messages: 1,000,000
+        Maximum Bytes: unlimited
+          Maximum Age: 0.00s
+ Maximum Message Size: unlimited
+    Maximum Consumers: unlimited
+
+State:
+
+             Messages: 0
+                Bytes: 0 B
+             FirstSeq: 0
+              LastSeq: 0
+     Active Consumers: 0
